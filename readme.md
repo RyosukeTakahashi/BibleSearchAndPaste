@@ -1,14 +1,15 @@
+##概要
+
 聖書（口語訳）の指定した聖句を簡単にコピペするための、rubyアプリ。
 
-*使用条件*
+##使用条件
 
 * mac
 * ruby 1.9 以上
 * 以下のコマンドでgem clipboardというgemをインストールしておくこと。
+`gem install clipboard`
 
-    gem install clipboard
-
-*使い方*
+##使い方
 
 1. bpaste.commandをダブルクリック
 2. Input book: で英語の表記での最初の３文字を入力し、Enter。（マタイによる福音書なら、'mat'）
