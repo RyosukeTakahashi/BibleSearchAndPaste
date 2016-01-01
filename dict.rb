@@ -18,7 +18,7 @@ def adjust(input)
     when 'yos'
       book = 'jos'
     when 'sis'
-      book = 'judges'
+      book = 'jud'
     when 'rut'
       book = 'rut'
     when 'sa1','1sa'
