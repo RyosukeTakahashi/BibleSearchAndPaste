@@ -10,9 +10,7 @@
 ##準備
 1. 以下のコマンドでgem clipboardというgemをインストールしておくこと。
 `gem install clipboard`
-2. bpaste.command の１行目を編集する
-`cd /Users/Ryo/Documents/GitHubWorks/BibleSearchAndPaste`
-のディレクトリ部分を、ファイルを置いたディレクトリ先に変更して保存する。
+
 
 ##使い方
 
