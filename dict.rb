@@ -67,7 +67,7 @@ def adjust(input)
         when 1
           book = 'deu'
         when 2
-          book = 'jud'
+          book = 'jdg'
 
         when 3
           book = 'psa'
@@ -233,7 +233,7 @@ def translate(book)
       book = '申命記'
     when 'jos'
       book = 'ヨシュア記'
-    when 'jud'
+    when 'jdg'
       book = '士師記'
     when 'rut'
       book = 'ルツ記'
